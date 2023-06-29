@@ -5,7 +5,7 @@ This repository contains the white paper for the High-Volume Request Queue Manag
 ## White Paper
 The white paper provides a detailed explanation of the system's architecture, features, and benefits. It addresses the challenges faced in managing high-volume requests in databases and other applications, and introduces an innovative mechanism for efficient request queue management. The white paper explores the enhanced timestamping mechanism, the modified queue structure, and the advantages of utilizing this system. It also showcases examples of emerging technologies that can benefit from this system.
 
-To access the white paper, please refer to the [whitewaper.md](whitewaper.md) file.
+To access the white paper, please refer to the [whitewaper.md](whitepaper.md) file.
 
 ## License
 The white paper is licensed under the Apache 2.0 License. You can find the license information in the [LICENSE](LICENSE) file.
